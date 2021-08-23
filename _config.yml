@@ -22,8 +22,8 @@ title: Computational Nuclear Materials Group
 email: mmjin@psu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   We aim to develop efficient and accurate computational tools to describe and predict materials behavior in extreme environments, and design exceptional radiation-resistant materials. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/cnm" # the subpath of your site, e.g. /blog
+url: "https://jin-psu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jin-psu
 
