@@ -1,7 +1,7 @@
 ---
 layout: page
-title: People
-permalink: /people/
+title: Research
+permalink: /research/
 ---
 
 
@@ -51,7 +51,7 @@ permalink: /people/
 
 </style>
 
- 
+
 ## Principal investigator: Miaomiao (Mia) Jin
 
 
@@ -67,47 +67,20 @@ permalink: /people/
 <img src="../images/people/Mia-Jin.jpg" class="leftAlign small">
 
  
-### Research interests:  
+### Research interests:
 * Computational materials science and engineering  
 * Materials behavior in extreme environments  
 * Defects and microstructure evolution in materials  
 * Development of radiation-tolerant structural materials  
 * Materials informatics
 
-&nbsp;
+
 ### Education:  
 * Ph.D. Nuclear Science and Engineering, Massachusetts Institute of Technology, 2019  
   Minor: Statistics and Machine Learning
 * B.Eng. Nuclear Engineering, University of Science and Technology of China, 2013
 
-<br/><br/>
+
 ### Graduate students:
-<img src="../images/people/Beihan Chen.jpg" class="leftAlign small">
-#### Beihan Chen  
-* Computational materials science and engineering  
-* Materials behavior in extreme environments  
-* Defects and microstructure evolution in materials  
-* Development of radiation-tolerant structural materials  
-* Materials informatics
 
-<br clear="left"/>
-
-
-
-
-
-<img src="../images/people/Hamdy Arkoub.jpg" class="leftAlign small">
-#### Hamdy Arkoub
-* Computational materials science and engineering  
-* Materials behavior in extreme environments  
-* Defects and microstructure evolution in materials  
-* Development of radiation-tolerant structural materials  
-* Materials informatics
-<br clear="left"/>
-
-
-
-
-
-<br/><br/>
 ### Summer students:
