@@ -72,7 +72,8 @@ permalink: /people/
 * Materials behavior in extreme environments  
 * Defects and microstructure evolution in materials  
 * Development of radiation-tolerant structural materials  
-* Materials informatics
+* Materials informatics  
+ [Google Scholar](https://scholar.google.com/citations?user=viEXbq8AAAAJ&hl=en)
 
 &nbsp;
 ### Education:  
