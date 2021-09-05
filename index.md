@@ -4,11 +4,11 @@
 layout: home
 ---
 
+# Group news
 <head>
-<link rel="shortcut icon" type="image/x-icon" href="{{ "/logo.ico" | prepend: site.baseurl }}" >
+  We aim
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+  Check what happened here
 
-<!--
-# <link rel="shortcut icon" type="image/x-icon" href="logo.ico?">
---!>
 
 </head>

@@ -52,8 +52,13 @@ permalink: /jobs/
 </style>
 
 
-
-### Postdoc: not available yet.
-### Graduate students: welcome applications.
-### Undergraduate students: welcome applications.
+Our group is looking forward to working with people interested in solveing materials problems with computational methods.
+### Postdoc  
+ Not available at this point.
+### Graduate students  
+ Welcome applications.
+### Undergraduate students  
+ Welcome applications to semester research or summer research.
+### Visiting scholars 
+ Welcom to join the team.
 
