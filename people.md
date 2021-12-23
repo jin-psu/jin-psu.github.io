@@ -76,6 +76,11 @@ permalink: /people/
  [Google Scholar](https://scholar.google.com/citations?user=viEXbq8AAAAJ&hl=en)
 
 &nbsp;
+### Contact:
+* Email: mmjin@psu.edu  
+* Office: 218 Hallowell Building, The Pennsylvania State University, University Park, PA 16802-4400
+
+&nbsp;
 ### Education & Training:  
 * Postdoc, Fuels Modeling and Simulation, Idaho National Laboratory, 2019/8-2021/12 
 * Ph.D. Nuclear Science and Engineering, Massachusetts Institute of Technology, 2019/6  
