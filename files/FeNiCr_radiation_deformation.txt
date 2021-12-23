@@ -1,0 +1,15 @@
+
+
+<h3 style='font-weight:bold; font-style: italic' id='FeNiCr'>Project: Radiation and deformation behavior in Fe-Ni-Cr alloys </h3>
+
+<p style='text-align: justify'> Fe-Ni-Cr alloys have found significant applications in nuclear industries as structural materials due to their good mechanical performance and resistance to corrosion. Depending on the composition, low to negative stacking fault energies can be found in the compositional space, especially near the equal-molar regions. It can have a significant impact on the deformation behavior such as dislocation mobility, deformation twinning, and phase stability. In the meantime, radiation-induced ion-mixing and defects complicate the mechanical behavior. Specifically, we are focusing the following aspects using molecular dynamics, </p>
+
+* How stacking fault energy correlates with the deformation behavior.​  
+* Impact of radiation damage.
+ 
+
+*Status*: On-going.  
+*Category*: Radiation damage, deformation, molecular dynamics.
+
+<br>
+<hr>

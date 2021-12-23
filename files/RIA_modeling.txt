@@ -1,0 +1,16 @@
+
+
+<h3 style='font-weight:bold; font-style: italic' id='ria'>Project: Estimation of low temperature cladding failures during an RIA transient</h3>
+
+<p style='text-align: justify'> The goal of this project is to evaluate the likelihood of low temperature failures during a reactivity initiated accident for near-term Accident Tolerant Fuel concepts, including coated cladding, high burnup fuel and higher enrichment pellets. This risk will be evaluated using coupled multiphysics simulations, including neutronics, thermal hydraulics and materials behavior. We will validate the results against existing integral and separate effects results to clearly connect these calculations to data and be able to identity data gaps for TREAT. </p>
+
+ 
+
+<img src="../images/research/multiphyscis.png" alt="" />
+ 
+
+*Status*: On-going.  
+*Category*: Fuel performance modeling.
+
+<br>
+<hr>

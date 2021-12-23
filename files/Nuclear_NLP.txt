@@ -1,0 +1,14 @@
+
+
+<h3 style='font-weight:bold; font-style: italic' id='nlp'>Project: NLP on nuclear materials research &mdash; Text-mining and literature-driven discovery</h3>
+
+
+<p style='text-align: justify'> Over recent years, text-mining based on literature provides an enormous opportunity to gain collective insights from the growing availability of papers in a machine-readable format. Natural language processing (NLP) has been actively applied to scientific papers in various research fields such as bibliometrics, chemistry, and biomedicine. The information obtained from NLP can allow researchers to i) efficiently assimilate information being generated and accumulated in their community; ii) inspire new research ideas to push forward the application and understanding; and iii) develop interdisciplinary collaborations for similar problems. To this end, this project calls for NLP applied in the field of nuclear materials research (e.g. abstract or full-text analysis of literature), taking advantage of open-source NLP tools with necessary specialized improvement adapted to nuclear materials. Some examples include literature cluster analysis, categorization, topic modeling, and trend discovery. </p>
+
+<img src="../images/research/nuclear_NLP.png" alt="" />
+
+*Status*: On-going; call for undergradate researchers.  
+*Category*: Machine learning, NLP, nuclear materials.
+
+<br>
+<hr>

@@ -1,0 +1,18 @@
+
+
+<h3 style='font-weight:bold; font-style: italic' id='phonon'>Project: Thermal transport in ThO<sub>2</sub> with defects </h3>
+
+<p style='text-align: justify'> This project aligns the mission of TETI (Thermal Energy Transport under Irradiation) EFRC lead by Idaho National Laboratory to provide fundamental understanding in the thermal transport behavior in nuclear fuels. Thermal energy transport under irradiation is directly related to reactor efficiency as well as reactor safety. The aim of TETI is to develop a first principles understanding of electron and phonon transport in advanced nuclear fuels that will provide the necessary tools to enhance thermal transport by tailoring defects and microstructure. As a member of the TETI team, work at Penn State will focus on defects and their impact on the phonon transport and thermal conductivity in ThO<sub>2</sub>. </p>
+
+Refer to <a href="http://teti.inl.gov/">TETI EFRC</a> for more details.
+ 
+
+<p style="text-align: center;"><img src="../images/research/ThO2_phonon.png" alt="" width="80%"/></p>
+<p style="text-align: center;">Figure. Schematic diagram of phonon-phonon, phonon-defect, phonon-boundary scattering in irradiated ThO<sub>2</sub>.</p>
+
+
+*Status*: On-going.  
+*Category*: Thermal transport, nuclear fuels, molecular dynamics.
+
+<br>
+<hr>

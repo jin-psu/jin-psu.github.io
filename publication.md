@@ -6,6 +6,7 @@ permalink: /publication/
 
 Pengyuan Xiu, Miaomiao Jin, Kaustubh Bawane, Beata Tyburska-Püschel, Brian J. Jaques, Kevin G. Field, Jeffrey J. Giglio, Lingfeng He. “Dislocation Loops in Proton Irradiated Uranium-Nitrogen-Oxygen System” Journal of Nuclear Materials 557 (2021): 153244.
 
+Miaomiao Jin\*, Yipeng Gao, Yongfeng Zhang, Chao Jiang, and Jian Gan. "Dissociated prismatic loop punching by bubble growth in FCC metals." Scientific Reports 11.1 (2021): 1-9.
 
 Yi Xie, Miaomiao Jin, Calculations of CISCC for UNF canisters thorugh physics-guided machine learning framework, Transactions of the American Nuclear Society 124 (2021): 82-85.
 

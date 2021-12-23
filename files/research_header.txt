@@ -1,0 +1,14 @@
+---
+layout: page
+title: Research
+permalink: /research/
+---
+
+<p style='text-align: justify; font-size:20px; font-weight: bold'> We aim to develop efficient and accurate computational tools to describe and predict materials behavior in extreme environments, and design exceptional radiation-resistant materials. </p>
+
+<br>
+<hr>
+
+
+
+

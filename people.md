@@ -64,11 +64,11 @@ permalink: /people/
 
 <img align="left" width="33%" src="../images/people/test.jpg">
 -->
-<img src="../images/people/Mia-Jin.jpg" class="leftAlign small">
+<img src="../images/people/Mia-Jin.jpg" class="leftAlign small" style="margin-top: 10px">
 
  
 ### Research interests:  
-* Computational materials science and engineering  
+* Multiscale modeling of nuclear materials   
 * Materials behavior in extreme environments  
 * Defects and microstructure evolution in materials  
 * Development of radiation-tolerant structural materials  
@@ -76,39 +76,104 @@ permalink: /people/
  [Google Scholar](https://scholar.google.com/citations?user=viEXbq8AAAAJ&hl=en)
 
 &nbsp;
-### Education:  
-* Ph.D. Nuclear Science and Engineering, Massachusetts Institute of Technology, 2019  
-  Minor: Statistics and Machine Learning
-* B.Eng. Nuclear Engineering, University of Science and Technology of China, 2013
+### Education & Training:  
+* Postdoc, Fuels Modeling and Simulation, Idaho National Laboratory, 2019/8-2021/12 
+* Ph.D. Nuclear Science and Engineering, Massachusetts Institute of Technology, 2019/6  
+Minor: Statistics and Machine Learning
+* B.Eng. Nuclear Engineering, University of Science and Technology of China, 2013/6
 
 <br/><br/>
 ### Graduate students:
-<img src="../images/people/Beihan Chen.jpg" class="leftAlign small">
+<img src="../images/people/Beihan Chen.jpg" class="leftAlign small" style="height: 150px; width: auto; margin-top:10px">
 #### Beihan Chen  
-* Computational materials science and engineering  
-* Materials behavior in extreme environments  
-* Defects and microstructure evolution in materials  
-* Development of radiation-tolerant structural materials  
-* Materials informatics
+Email: bqc5559@psu.edu   
+Projects:
+>> [Thermal transport in ThO<sub>2</sub>](research.md#phonon)   
+>> Defects in ThO<sub>2</sub>  
+ 
 
 <br clear="left"/>
 
 
-
-
-
-<img src="../images/people/Hamdy Arkoub.jpg" class="leftAlign small">
+<img src="../images/people/Hamdy Arkoub.jpg" class="leftAlign small" style="height: 150px; width: auto; margin-top:20px">
 #### Hamdy Arkoub
-* Computational materials science and engineering  
-* Materials behavior in extreme environments  
-* Defects and microstructure evolution in materials  
-* Development of radiation-tolerant structural materials  
-* Materials informatics
+Email: haa5492@psu.edu   
+Projects:
+>> [Implication of negative stacking fault energy in Fe-Ni-Cr alloys](research.md#FeNiCr)   
+>> [Deformation and dislocation behavior](research.md#FeNiCr)  
+>> Materials informatics  
 <br clear="left"/>
 
-
-
+<img src="../images/people/person-placeholder.png" class="leftAlign small" style="height: 150px; width: 150px; margin-top: -10px">
+#### Katheren Rayssa Bosson Nantes
+Email: krn5198@psu.edu   
+Projects:
+>> [Estimation of low temperature cladding failures during an RIA transient](research.md#ria)  
+<br clear="left"/>
 
 
 <br/><br/>
-### Summer students:
+### Undergraduate students:
+
+<img src="../images/people/person-placeholder.png" class="leftAlign small" style="height: 150px; width: 150px; margin-top: -10px">
+#### Gibson Prall
+Affiliation:  
+Email: gibprall@gmail.com   
+Projects: Implication of negative stacking fault energy in Fe-Ni-Cr alloys  
+Period: Summer 2021
+<br clear="left"/>
+
+<img src="../images/people/person-placeholder.png" class="leftAlign small" style="height: 150px; width: 150px; margin-top: -10px">
+#### Erik Matthew Rominiecki
+Affiliation:  
+Email: ezr5255@psu.edu   
+Projects: [Predicting research trends in nuclear materials](research.md#nlp)  
+Period: Summer 2021
+<br clear="left"/>
+
+
+<img src="../images/people/person-placeholder.png" class="leftAlign small" style="height: 150px; width: 150px; margin-top: -10px">
+#### Jack Jenny
+Affiliation:  
+Email: jjennyjr@gmail.com   
+Projects: [Machine learning image recognition](research.md#ml_image)   
+Period: Fall 2021
+<br clear="left"/>
+
+<img src="../images/people/person-placeholder.png" class="leftAlign small" style="height: 150px; width: 150px; margin-top: -10px">
+#### Madeline Cannon
+Affiliation:  
+Email: mad.cannon24@gmail.com   
+Projects: [Machine learning image recognition](research.md#ml_image)   
+Period: Fall 2021
+<br clear="left"/>
+
+<img src="../images/people/person-placeholder.png" class="leftAlign small" style="height: 150px; width: 150px; margin-top: -10px">
+#### Weipeng Hu
+Affiliation:  
+Email: pharrelhu@gmail.com   
+Projects: [Machine learning image recognition](research.md#ml_image)   
+Period: Fall 2021
+<br clear="left"/>
+
+<img src="../images/people/person-placeholder.png" class="leftAlign small" style="height: 150px; width: 150px; margin-top: -10px">
+#### Shuhao Xu
+Affiliation:  
+Email: shuhaoxu1130@gmail.com   
+Projects: [Machine learning image recognition](research.md#ml_image)   
+Period: Fall 2021
+<br clear="left"/>
+
+
+<img src="../images/people/person-placeholder.png" class="leftAlign small" style="height: 150px; width: 150px; margin-top: -10px">
+#### Arpit Singla
+Affiliation:  
+Email: arpitsingla7@gmail.com   
+Projects: [Machine learning image recognition](research.md#ml_image)   
+Period: Fall 2021
+<br clear="left"/>
+
+<br/><br/>
+### Collaborators:
+To be added.
+

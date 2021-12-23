@@ -1,0 +1,19 @@
+
+
+<h3 style='font-weight:bold; font-style: italic' id='ml_image'>Project: Machine-learning enabled classification of material defects in transmission electron microscopy images</h3>
+
+<p style='text-align: justify'> Transmission electron microscopy (TEM) as an important and high-resolution (nanometer) imaging technique to characterize materials microstructure, various types of defects, and dynamic nanoscale processes (with in-situ option). One important bottleneck is that the identification and classification of observed objects is highly time-consuming, since the images can only cover very small sections of the material at a time, and there can be many possible defects involved. In recent years, the development of machine learning in image recognition can be used to expedite this process, which has been showcased by many researchers. In this project, we manually collect and label experimental images, and apply convolutional neural network (CNN) based machine learning models to identify line dislocations and radiation induced bubbles with reasonable test accuracy. </p>
+
+ 
+
+<img src="../images/research/bubble_prediction.png" alt="" />
+<p style="text-align: center;">Figure. Prediction of bubbles from TEM images.</p>
+
+<p style="text-align: center;"><iframe src="../videos/dislocation_prediction.mp4" width="560" height="300" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;">Video. In-situ identification of dislocation line.</p>
+
+*Status*: On-going; call for undergraduate researchers.  
+*Category*: Machine learning, image recognition, TEM.
+
+<br>
+<hr>
