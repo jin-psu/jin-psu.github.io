@@ -52,7 +52,7 @@ permalink: /people/
 </style>
 
  
-## Principal investigator: Miaomiao (Mia) Jin, Assistant Professor
+## PI: Miaomiao (Mia) Jin, Assistant Professor
 
 
 <!---
