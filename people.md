@@ -52,7 +52,7 @@ permalink: /people/
 </style>
 
  
-## Principal investigator: Miaomiao (Mia) Jin
+## Principal investigator: Miaomiao (Mia) Jin, Assistant Professor
 
 
 <!---
@@ -74,6 +74,11 @@ permalink: /people/
 * Development of radiation-tolerant structural materials  
 * Materials informatics  
  [Google Scholar](https://scholar.google.com/citations?user=viEXbq8AAAAJ&hl=en)
+
+&nbsp;
+### Contact:
+* Email: mmjin@psu.edu  
+* Office: 218 Hallowell Building, The Pennsylvania State University, University Park, PA 16802-4400  
 
 &nbsp;
 ### Education & Training:  

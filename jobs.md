@@ -52,7 +52,7 @@ permalink: /jobs/
 </style>
 
 
-Our group is looking forward to working with people interested in solveing materials problems with computational methods.
+Our group is looking forward to working with people interested in solveing materials problems with computational methods. Please contact Dr. Jin (mmjin@psu.edu) for more details.
 ### Postdoc  
  Not available at this point.
 ### Graduate students  
