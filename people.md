@@ -109,7 +109,7 @@ Projects:
 >> Materials informatics  
 <br clear="left"/>
 
-<img src="../images/people/person-placeholder.png" class="leftAlign small" style="height: 150px; width: 150px; margin-top: -10px">
+<img src="../images/people/Katheren.jpg" class="leftAlign small" style="height: 150px; width: auto; margin-top: -10px">
 #### Katheren Rayssa Bosson Nantes
 Email: krn5198@psu.edu   
 Projects:
